@@ -1,4 +1,4 @@
-# react app typescript cv1
+# React App Typescript cv1
 
 It is a single page application written using Create React App, Typescript, React Hooks, with full create, read, update and delete functionality.
 
