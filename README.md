@@ -4,7 +4,7 @@ It is a single page application written using Create React App, Typescript, Reac
 
 ## Demo
 
-Project hosted on Netlify:
+Project hosted on Netlify: https://react-app-typescript-cv1.netlify.app/
 
 ## Features
 
