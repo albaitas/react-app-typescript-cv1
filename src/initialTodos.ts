@@ -9,3 +9,10 @@ export const initialTodos: ITodo[] = [
 export function getInitialTodos() {
   return initialTodos;
 }
+
+// todo:
+// - create storage class that is searchable by string - case insensitive
+// - make sure it works with emojis and other special characters
+// - make sure it works with different languages
+// - make sure it works with different encodings
+// - cover it with tests

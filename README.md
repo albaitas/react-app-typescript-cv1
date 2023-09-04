@@ -12,6 +12,7 @@ Project hosted on Netlify: https://react-app-typescript-cv1.netlify.app/
 - Remove task
 - Toggle task
 - Update task
+- Search task
 - Tablet and mobile friendly
 
 ## Build with
