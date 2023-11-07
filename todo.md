@@ -11,3 +11,5 @@
 - translate it to ruby
 - explain the ruby code
 - show the questions and answers for exploration as an alternative to GPT
+
+- another todo
